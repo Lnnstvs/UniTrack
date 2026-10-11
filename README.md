@@ -8,7 +8,7 @@ UniTrack is a web-based campus event and attendance management system for campus
 - Course / Section: ITE402
 - Instructor: Lemuel June D. Bautista
 - Group members: Leanna Francine G. Stevenson, Justin Gabrielle B. Sarmiento
-- Final repository: [Insert GitHub URL]
+- Final repository: [[Insert GitHub URL]](https://github.com/Lnnstvs/UniTrack)
 - Client repository (if separate): [[Insert URL](https://github.com/Lnnstvs/UniTrack-Client)]
 - Server repository (if separate): [\[Insert URL\]](https://github.com/Lnnstvs/UniTrack-Server)
 
